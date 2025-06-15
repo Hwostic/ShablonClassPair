@@ -64,10 +64,6 @@ public:
 
 };
 
-template <typename T1, typename T2>
-ostream& operator<<(ostream& out, const Pair<T1, T2>& pair);
-
-
 
 //
 //template<typename T>	//шаблонный класс
